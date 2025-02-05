@@ -1,6 +1,7 @@
 # Tableau_Project_Data_Analysis
 ## Dashboard File
-[View the Final Dashboard](https://public.tableau.com/app/profile/simon.macharia)
+[View the Final Dashboard](https://public.tableau.com/app/profile/simon.macharia)  
+My final dashboard file [Sales Performance in the United States.twbx](https://github.com/symo-254/Tableau_Project_Data_Analysis/blob/main/Sales%20Performance%20in%20the%20United%20States.twbx)
 # Sales DashBoard
 ![Sales Dashboard](https://github.com/user-attachments/assets/6536bd31-91bb-4349-8985-c22f34ebc195)
 
